@@ -2,6 +2,8 @@
 
 I make high quality apps which are beautiful, fast, accessible and scalable.
 
+Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
+
 *I don't use cutting edge technologies, I use bleeding edge.* (I hope you don't mind)
 
 - TypeScript
