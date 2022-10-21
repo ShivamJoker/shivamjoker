@@ -4,13 +4,11 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-### Here is my latest video:
+#### Here is my latest video on: Just a sample 
 
-<!--update here-->
-<a href="">
-  <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="video thumbnail for " width="480"/>
+<a id="latest-vid-link" href="https://youtu.be/pvdEWSUtmiw">
+  <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
-<!--update here-->
 
 
 *I don't use cutting edge technologies, I use bleeding edge.* (I hope you don't mind)
