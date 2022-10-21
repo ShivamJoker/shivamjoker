@@ -6,7 +6,7 @@ Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter
 
 #### Here is my latest video on: Just a sample 
 
-<a id="latest-vid-link" href="https://youtu.be/pvdEWSUtmiw">
+<a id="latest-vid-link" href="https://youtu.be/dQw4w9WgXcQ">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
