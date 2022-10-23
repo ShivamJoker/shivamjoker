@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: Now gotta fix the ID update regex
+#### Here is my latest video on: Okay everything is all set now
 
-<a id="latest-vid-link" href="https://youtu.be/dQw4w9WgXcQ">
+<a id="latest-vid-link" href="https://youtu.be/bP-JZk8_IoM">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
