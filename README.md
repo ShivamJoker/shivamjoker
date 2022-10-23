@@ -4,7 +4,7 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: Sample frog for testing
+#### Here is my latest video on: Sample frog for testing (its slow)
 
 <a id="latest-vid-link" href="https://youtu.be/dQw4w9WgXcQ">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
