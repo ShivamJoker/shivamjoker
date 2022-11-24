@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: Dog got a home, he is not lonely anymore
+#### Here is my latest video on: Top 5 AWS S3 Commands to Make You a Pro!!
 
-<a id="latest-vid-link" href="https://youtu.be/W2tySLZh75E" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/yfD-PbrZwsQ" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
