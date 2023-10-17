@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: No one has ever done this 🤯 Get AWS bill from your iPhone
+#### Here is my latest video on: AWS Serverless Grocery Store Project in DynamoDB
 
-<a id="latest-vid-link" href="https://youtu.be/RCx_WKNe5LY" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/wW8kNuAkI-4" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
