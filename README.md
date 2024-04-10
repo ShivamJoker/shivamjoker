@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: Learn AWS for FREE - Top 10 Free AWS Resources
+#### Here is my latest video on: I made my Lambda go faster - Go AWS Lambda Tutorial
 
-<a id="latest-vid-link" href="https://youtu.be/mQYMCM4tIGw" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/oa2aKE2Himo" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
