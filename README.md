@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: What makes up a backend server ft. HTTP
+#### Here is my latest video on: Launching Your First EC2
 
-<a id="latest-vid-link" href="https://youtu.be/jljcEmaHryA" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/jWIOR7VBgHo" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
