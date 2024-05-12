@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: Launching Your First EC2
+#### Here is my latest video on: Explain Cloud Like I'm 5
 
-<a id="latest-vid-link" href="https://youtu.be/jWIOR7VBgHo" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/7-_9phwsnG0" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
