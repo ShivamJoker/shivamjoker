@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: Create and understand On Demand DynamoDB Table using AWS Console
+#### Here is my latest video on: Where to use Amazon DynamoDB | The NoSQL vs SQL dilemma
 
-<a id="latest-vid-link" href="https://youtu.be/dsomOoheOw8" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/Xa1X1qilYw8" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
