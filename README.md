@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: Where to use Amazon DynamoDB | The NoSQL vs SQL dilemma
+#### Here is my latest video on: Check DNS Records Using dig CLI
 
-<a id="latest-vid-link" href="https://youtu.be/Xa1X1qilYw8" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/ZKvbGMS7loo" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
