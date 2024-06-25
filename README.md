@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: Generating HTML on the Lambda
+#### Here is my latest video on: AWS EC2 calculator is SCARY. Here is how I "FIXED" it.
 
-<a id="latest-vid-link" href="https://youtu.be/AoBDxvQsvbE" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/tvIPp9wQ8tw" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
