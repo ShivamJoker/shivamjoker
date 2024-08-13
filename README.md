@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: Calculating DynamoDB prices was NEVER this easy!
+#### Here is my latest video on: How to manage AWS SES email templates & send emails?
 
-<a id="latest-vid-link" href="https://youtu.be/vYXqssxtT1Q" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/P6UOBCcJqD0" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
