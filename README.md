@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: How to Deploy Pocketbase for Production ft. AWS EC2
+#### Here is my latest video on: How I Built a CRON Job Manager in Go + JavaScript
 
-<a id="latest-vid-link" href="https://youtu.be/p0yhdKl0cRs" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/FFMCuVQwNQs" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
