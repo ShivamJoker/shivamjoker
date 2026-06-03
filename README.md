@@ -4,9 +4,9 @@ I make high quality apps which are beautiful, fast, accessible and scalable.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
-#### Here is my latest video on: Rock Paper Scissors, but on WhatsApp
+#### Here is my latest video on: How to Design an Enclosure in FreeCAD for 3D Printing
 
-<a id="latest-vid-link" href="https://youtu.be/nlHA2Di1BqY" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/NeI4RAfg998" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
