@@ -1,8 +1,5 @@
-### Hi there 👋 Shivam here
 
 I make high quality apps which are beautiful, fast, accessible and scalable.
-
-Connect with me: [LinkedIn](https://www.linkedin.com/in/shivamjoker/) | [Twitter](https://twitter.com/ShivamJoker) | [YouTube](https://www.youtube.com/@CreativeJE) 
 
 #### Here is my latest video on: How to Design an Enclosure in FreeCAD for 3D Printing
 
