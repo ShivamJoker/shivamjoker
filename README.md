@@ -1,9 +1,9 @@
 
 I make high quality apps which are beautiful, fast, accessible and scalable.
 
-#### Here is my latest video on: How to Design a Lid in FreeCAD for 3D Printing (Part 2)
+#### Here is my latest video on: How to Design an Enclosure in FreeCAD for 3D Printing (Part 1)
 
-<a id="latest-vid-link" href="https://youtu.be/zK_tW2b-KEE" target="_blank">
+<a id="latest-vid-link" href="https://youtu.be/NeI4RAfg998" target="_blank">
   <img src="https://raw.githubusercontent.com/ShivamJoker/shivamjoker/master/latest-video.svg" alt="thumbnail for my latest video" width="480"/>
 </a>
 
